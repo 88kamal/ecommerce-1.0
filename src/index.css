@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.alice-carousel__dots{
+    position: relative !important;
+    top: -26px !important;
+    /* right: -290px !important; */
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+  }
